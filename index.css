@@ -1,0 +1,51 @@
+body {
+    background-color: silver;
+    background-image: url(http://pngimg.com/uploads/ice_cream/ice_cream_PNG21002.png);
+    background-position: bottom;
+    background-size: 25px;
+    background-repeat: repeat-x;
+}
+h1 {
+    color: fuchsia;
+    font-family: "Arial Black";
+    font-weight: bold;
+    text-align: center;
+}
+h2 {
+    color: purple;
+    font-family: "Arial Black";
+}
+p {
+    color: black;
+    font-family: "Arial";
+}
+ul {
+	color: black;
+	font-family: "Arial";
+	list-style-type: square;
+}
+a {
+	color: purple;
+	text-decoration: none;
+}
+a:visited {
+	color: blue;
+}
+a:hover {
+	font-style: italic;
+}
+footer {
+	color: purple;
+	font-family: "Arial";
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+}
+li {
+	color: gray;
+	font-family:"Arial";
+}
+#MollyMoons {
+	width:30%;
+	height:30%;
+}
